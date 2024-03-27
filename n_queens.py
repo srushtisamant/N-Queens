@@ -1,13 +1,3 @@
-"""
-ITCS 6150 - Intelligent Systems
-Project 2: Solving N-queens problem using hill-climbing search and its variants
-Porject by : 
-1. Srushti Sanjay Samant (801198218)
-2. Himanshu Kiran Garud  (801365910)
-"""
-
-
-#Import Statements
 import random
 import sys
 
